@@ -1,9 +1,11 @@
 宠物喂食器开发计划书
-==
-
-This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.         For more information, please check Tuya Developer Website.  
-本项目使用涂鸦SDK开发，可以快速开发品牌应用，连接和控制多个设备的智能场景。更多信息，请访问涂鸦开发者网站。
-
+== 
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.       
+For more information, please check Tuya Developer Website. 
+  
+本项目使用涂鸦SDK开发，可以快速开发品牌应用，连接和控制多个设备的智能场景。   
+更多信息，请访问涂鸦开发者网站。 
+  
 # 一、方案标题
 ## ET智能宠物喂食器
 
@@ -35,14 +37,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 # 三、开发计划
 ## 主要物料
- 主控，STM32F1系列   
- 涂鸦三明治开发板    
- 直流电机，MG513P20_12V
- 重力传感器，YZC131
- 超声波传感器，HC-SR04
- 温湿度传感器，DHT11
- 六轴陀螺仪加速度传感器，ICM-20602
- 霍尔传感器，HAL145、磁铁等。
+ 主控STM32F1系列、涂鸦三明治开发板、直流电机MG513P20_12V、重力传感器YZC131、超声波传感器HC-SR04、温湿度传感器DHT11、六轴陀螺仪加速度传感器ICM-20602、霍尔传感器HAL145、磁铁等。
 ## 计划时间
  1) 3月13日前完成机械结构的设计方案。
  2) 3月10日-17日准备物料并进行嵌入式开发与云开发。
